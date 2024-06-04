@@ -21,13 +21,28 @@ class MainActivity : AppCompatActivity() {
 
         val btnCalcular = findViewById<Button>(R.id.btn_calcular)
 
-
+        // 1 - Receber dados do usuario como altura e peso
+        // 2 - Calcular o IMC
+        // IMC = Peso / Altura * Altura
+        // 3 - Mostrar o resultado do IMC
+        // 4 - Mostrar a classificacao
+        // 5 - classificação
+        // MENOR QUE 18,5  MAGREZA
+        // ENTRE 18,5 E 24,9 NORMAL
+        // ENTRE 25,0 E 29,9 SOBREPESO I
+        // ENTRE 30,0 E 39,9 OBESIDADE II
+        // MAIOR QUE 40,0    OBESIDADE GRAVE
 
         btnCalcular.setOnClickListener {
-            val peso = edtPeso.text
-            val altura = edtAltura.text
+            val peso: Float = edtPeso.text.toString().toFloat()
+            val altura: Float = edtAltura.text.toString().toFloat()
 
-            println("testando peso" + peso + altura)
+            val alturaQ2 = altura * altura
+            val resultado = peso / alturaQ2
+
+
+            println("testando peso" + resultado)
+
         }
     }
 }
