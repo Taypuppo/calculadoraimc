@@ -1,9 +1,8 @@
 # Calculadora IMC
-Desc
+O objetivo principal da calculadora é fornecer aos usuários uma maneira fácil e rápida de calcular seu IMC com base em seu peso e altura. Isso ajuda a conscientizar sobre a importância de manter um peso saudável para a saúde.
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+<img src="https://github.com/Taypuppo/calculadoraimc/assets/154562117/c53a7285-f00c-46cd-b4a1-0fab2c7d9289" width=260/>  <img src="https://github.com/Taypuppo/calculadoraimc/assets/154562117/b6be9a30-08d7-4a65-bf69-1f5df6dc633c" width=260/>
 
 ## Tecnologias
 Techs
@@ -13,7 +12,7 @@ Techs
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2024 Tayná Cristina Gomes Galvão Puppo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
