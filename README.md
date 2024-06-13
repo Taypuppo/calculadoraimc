@@ -1,11 +1,21 @@
 # Calculadora IMC
-O objetivo principal da calculadora é fornecer aos usuários uma maneira fácil e rápida de calcular seu IMC com base em seu peso e altura. Isso ajuda a conscientizar sobre a importância de manter um peso saudável para a saúde.
+Este aplicativo Android nativo, desenvolvido em Kotlin, tem como objetivo principal fornecer aos usuários uma ferramenta simples e intuitiva para calcular seu Índice de Massa Corporal (IMC) com base em seu peso e altura. A calculadora IMC visa conscientizar os usuários sobre a importância de manter um peso saudável para uma melhor saúde e bem-estar.
 
 ## :camera_flash: Screenshots
 <img src="https://github.com/Taypuppo/calculadoraimc/assets/154562117/c53a7285-f00c-46cd-b4a1-0fab2c7d9289" width=260/>  <img src="https://github.com/Taypuppo/calculadoraimc/assets/154562117/b6be9a30-08d7-4a65-bf69-1f5df6dc633c" width=260/>
 
 ## Tecnologias
-Techs
+-Activity
+-Intent
+-Snackbar
+-ViewGroups
+ -LinearLayout
+ -ConstraintLayout
+-Views
+ -ImageView
+ -TextView
+ -EditText
+ -Button
 
 
 ## License
