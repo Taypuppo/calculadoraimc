@@ -5,17 +5,17 @@ Este aplicativo Android nativo, desenvolvido em Kotlin, tem como objetivo princi
 <img src="https://github.com/Taypuppo/calculadoraimc/assets/154562117/c53a7285-f00c-46cd-b4a1-0fab2c7d9289" width=260/>  <img src="https://github.com/Taypuppo/calculadoraimc/assets/154562117/b6be9a30-08d7-4a65-bf69-1f5df6dc633c" width=260/>
 
 ## Tecnologias
--Activity
--Intent
--Snackbar
--ViewGroups
- -LinearLayout
- -ConstraintLayout
--Views
- -ImageView
- -TextView
- -EditText
- -Button
+- Activity
+- Intent
+- Snackbar
+- ViewGroups
+  - LinearLayout
+  - ConstraintLayout
+- Views
+  - ImageView
+  - TextView
+  - EditText
+  - Button
 
 
 ## License
