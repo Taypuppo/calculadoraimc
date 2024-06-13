@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="magreza">#FF0000</color> <!-- VERMELHO -->
-    <color name="normal">#00FF00</color> <!-- VERDE -->
-    <color name="sobrepeso">#FFA500</color> <!-- LARANJA -->
-    <color name="obesidade">#FF4500</color> <!-- LARANJA ESCURO -->
-    <color name="obesidade_grave">#8B0000</color> <!-- VERMELHO ESCURO -->
+    <color name="magreza">#FF0000</color>
+    <color name="normal">#00FF00</color>
+    <color name="sobrepeso">#FFA500</color>
+    <color name="obesidade">#FF4500</color>
+    <color name="obesidade_grave">#8B0000</color>
 </resources>
